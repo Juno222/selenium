@@ -1,7 +1,5 @@
 import java.io.InputStream;
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
@@ -13,6 +11,7 @@ import org.testng.annotations.Test;
  * Created by user on 2016/6/12.
  */
 public class XmlReader {
+
     public List<String> read(String xmlName){
         List<String> keywords = new ArrayList<String>();
         try {
