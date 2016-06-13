@@ -1,0 +1,158 @@
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x715e0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\NETUTILS.DLL
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6f4d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\bcrypt.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6faf0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\WKSCLI.DLL
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x5b7c0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\safemon.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x5d730000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\iNetSafe.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6a030000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6f5c0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77380000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\FirewallAPI.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x67880000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\fwbase.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x705d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\DAVHLPR.DLL
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x746d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\COMDLG32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73e20000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x67860000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\USP10.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74da0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\MSASN1.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74460000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\CRYPT32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74410000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\WINTRUST.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x720d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x53a10000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\50.0.2661.75\chrome_child.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x5bc20000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from D:\Program Files (x86)\360\360safe\360verify.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6ad00000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\dwrite.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x774eab80 of 5888 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x1a0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x773e0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x768d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\KERNELBASE.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76220000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\KERNEL32.DLL
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6eb00000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\apphelp.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76ff0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\msvcrt.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x766f0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\bcryptPrimitives.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74100000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74110000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\SspiCli.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x764d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\RPCRT4.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x747d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\sechost.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74c90000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\ADVAPI32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x5d770000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\50.0.2661.75\chrome_elf.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x740d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\VERSION.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74c50000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\cfgmgr32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72120000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76750000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\GDI32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76360000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\USER32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x768a0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\IMM32.DLL
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72150000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\WINMM.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74e00000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\profapi.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x740e0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\USERENV.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x740c0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\WTSAPI32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6f7d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74250000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\combase.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74db0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\shlwapi.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74c30000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\kernel.appcore.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x745e0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\shcore.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74670000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\powrprof.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76a50000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\windows.storage.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74e10000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\SHELL32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x770d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\ole32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77220000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\OLEAUT32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74c40000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\PSAPI.DLL
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76300000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\WS2_32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x764b0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\NETAPI32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x715e0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\NETUTILS.DLL
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6f4d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\bcrypt.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6faf0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\WKSCLI.DLL
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x5b7c0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\safemon.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x5d730000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from D:\Program Files (x86)\360\360safe\safemon\iNetSafe.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6a030000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6f5c0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\COMCTL32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77380000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\FirewallAPI.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x67880000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\fwbase.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x705d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\DAVHLPR.DLL
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x746d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\COMDLG32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73e20000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x67860000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\USP10.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74da0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\MSASN1.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74460000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\CRYPT32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74410000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\WINTRUST.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x720d0000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x53a10000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\50.0.2661.75\chrome_child.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x5bc20000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from D:\Program Files (x86)\360\360safe\360verify.dll
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6ad00000 of 64 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SYSTEM32\dwrite.dll
+[0612/153053:ERROR:process_reader_win.cc(98)] process 9228 not found
+[0612/153053:ERROR:process_reader_win.cc(232)] ReadMemory at 0x24d1b4 of 12 bytes failed: ????????? ReadProcessMemory ?? WriteProcessMemory ???? (0x12B)
+[0612/153053:WARNING:process_snapshot_win.cc(96)] ReadMemory ExceptionInformation failed
+[0612/153053:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0612/153053:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
