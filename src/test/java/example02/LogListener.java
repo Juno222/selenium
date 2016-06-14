@@ -13,7 +13,6 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * Created by user on 2016/6/14.
- * 自动log.
  */
 public class LogListener implements WebDriverEventListener {
 

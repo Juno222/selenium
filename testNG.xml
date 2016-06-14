@@ -3,7 +3,8 @@
 <suite name="Suite" parallel="classes" thread-count="3">
     <test verbose="2" preserve-order="true" name="TestDebug">
         <classes>
-            <class name="example.ExampleOne"/>
+            <!--<class name="example.ExampleOne"/>-->
+            <class name="SearchTest"/>
 
         </classes>
     </test> <!-- Test -->
