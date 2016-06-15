@@ -6,7 +6,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.util.List;
-import java.util.Scanner;
 
 /**
  * Created by Juno on 2016/6/11.
@@ -20,7 +19,8 @@ public class SearchTest {
         for(String k : keywords){
             WebDriver wb = new ChromeDriver();
             wb.get("http://sshop.csqccr.com");
-            WebElement we = wb.findElement(By.id("keyword"));
+//            WebElement we = wb.findElement(By.id("keyword"));
+            WebElement we = wb.findElement(By.xpath("//input[@placeholder='请输入搜索关键字']"));
             we.sendKeys(k);
             we.submit();
             WebElement count = wb.findElement(By.className("normalsize"));
